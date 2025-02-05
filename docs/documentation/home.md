@@ -1,5 +1,5 @@
 ---
-title: Main Page
+title: Home
 deprecated: false
 hidden: false
 metadata:
