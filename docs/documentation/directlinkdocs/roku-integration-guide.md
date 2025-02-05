@@ -5,4 +5,6 @@ hidden: false
 metadata:
   robots: index
 ---
-Hi \<\<name>>
+Hi \<\<pid>>
+
+\<\<pid>>
