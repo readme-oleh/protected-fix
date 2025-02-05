@@ -1,7 +1,7 @@
 ---
 title: Roku Integration guide
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
