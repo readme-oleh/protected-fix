@@ -1,5 +1,5 @@
 ---
-title: Dispaly guide
+title: Display guide
 deprecated: false
 hidden: false
 metadata:
