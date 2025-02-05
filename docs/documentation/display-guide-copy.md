@@ -1,5 +1,5 @@
 ---
-title: Display guide (COPY)
+title: Main Page
 deprecated: false
 hidden: false
 metadata:
