@@ -12,7 +12,7 @@ By integrating the Protected Media solution, you will be able to get near-real-t
 
 ## Implementation
 
-The below steps outline the process of modifying and implementing Protected Media’s JS code within your system.
+The below steps outline the process of modifying and implementing Protected Media’s JS code within your system.\
 Please review the guide carefully while giving special attention to the various parameters.
 
 Copy the JS code (located below in the Code Example section) into a simple text editor (i.e. Notepad).\
