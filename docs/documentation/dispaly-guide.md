@@ -1,5 +1,5 @@
 ---
-title: Display guide
+title: Display Creatives
 deprecated: false
 hidden: false
 metadata:
