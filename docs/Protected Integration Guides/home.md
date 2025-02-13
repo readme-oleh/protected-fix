@@ -1,5 +1,5 @@
 ---
-title: Protected Media Integration Guides
+title: Getting Started
 deprecated: false
 hidden: false
 metadata:
