@@ -1,5 +1,6 @@
 ---
 title: Prebid Integration Guide
+excerpt: PLEASE PAY ATETENTION !!! MOST OF DOCUMENT IS NOT HERE !!!!
 deprecated: false
 hidden: true
 metadata:
