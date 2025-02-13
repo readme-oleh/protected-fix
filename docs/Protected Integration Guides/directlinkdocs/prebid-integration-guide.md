@@ -15,12 +15,15 @@ Protected Media will provide you with the executable. It is highly recommended t
 
 The below configuration will support 60K QPS. Additional nodes and a load-balancing mechanism should be utilized to scale above this
 
-● OS (minimum): CentOS 7+ / Ubuntu 16+ / Debian 8+ With at least a 4 core CPU, 8GB RAM, and 64-Bit (for maximum network throughput)
+●  OS (minimum): CentOS 7+ / Ubuntu 16+ / Debian 8+ With at least a 4 core CPU, 8GB RAM, and 64-Bit (for maximum network throughput)
 
-● 	Outbound (not inbound) ports required to be opened: 80, 9898, 9888● 	200 concurrent connections to the machine with the same open HTTP 1.1 connection.
-Connections should be kept alive for as long as the pre-bid client is active.
+● 	Outbound (not inbound) ports required to be opened: 80, 9898, 9888
+
+● 	200 concurrent connections to the machine with the same open HTTP 1.1 connection.Connections should be kept alive for as long as the pre-bid client is active.
+
 ● 	Pre-bid nodes should not be spawned or killed dynamically (e.g., set up as a
 Docker container). This allows the nodes to maximize usage of the pre-bid cache.
+
 ● 	SSH access to the machine (for troubleshooting - recommended but not required)
 
 ## Post bid & Pre Bid
