@@ -1,5 +1,5 @@
 ---
-title: reading CSV reports
+title: Reports API
 deprecated: false
 hidden: true
 metadata:
