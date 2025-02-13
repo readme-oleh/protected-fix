@@ -1,5 +1,5 @@
 ---
-title: 'New IVT Categories '
+title: Metrics Glossary
 deprecated: false
 hidden: false
 metadata:
