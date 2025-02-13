@@ -13,8 +13,11 @@ Protected Media will provide you with the executable. It is highly recommended t
 
 ## System Requirements
 
-The below configuration will support 60K QPS. Additional nodes and a load-balancing mechanism should be utilized to scale above this● OS (minimum): CentOS 7+ / Ubuntu 16+ / Debian 8+ With at least a 4 core CPU, 8GB RAM, and 64-Bit (for maximum network throughput)● 	Outbound (not inbound) ports required to be opened: 80, 9898, 9888
-● 	200 concurrent connections to the machine with the same open HTTP 1.1 connection.
+The below configuration will support 60K QPS. Additional nodes and a load-balancing mechanism should be utilized to scale above this
+
+● OS (minimum): CentOS 7+ / Ubuntu 16+ / Debian 8+ With at least a 4 core CPU, 8GB RAM, and 64-Bit (for maximum network throughput)
+
+● 	Outbound (not inbound) ports required to be opened: 80, 9898, 9888● 	200 concurrent connections to the machine with the same open HTTP 1.1 connection.
 Connections should be kept alive for as long as the pre-bid client is active.
 ● 	Pre-bid nodes should not be spawned or killed dynamically (e.g., set up as a
 Docker container). This allows the nodes to maximize usage of the pre-bid cache.
@@ -33,7 +36,6 @@ As mentioned in previous sections, the Prebid proxy is basically a cache of samp
 **Step 1 - Adjust machine limits**1.a. Append the below towards the end of `/etc/security/limits.conf`
 
 ```
-
 * hard nofile 1048576 
 * soft nofile 1048576 
 root hard nofile 1048576 
@@ -41,8 +43,6 @@ root soft nofile 1048576
 ```
 
 1.b. Create the following file /etc/sysctl.d/prebid-sysctl.conf and the below
-
-
 
 ```
 fs.file-max = 1048576
@@ -56,7 +56,7 @@ fs.file-max = 1048576
 curl "http://CUSTOMER_PID.s2s.ad-score.com/archive/proxy/install.sh?k=CUSTOMER_KEY&pid=CUSTOMER_PID" | bash 
 ```
 
-\*\*CUSTOMER\_PID \*\*and \*\*CUSTOMER\_KEY \*\*will be provided by Protected Media.
+CUSTOMER\_PID and CUSTOMER\_KEY will be provided by Protected Media.
 
 <br />
 
@@ -67,9 +67,10 @@ curl "http://CUSTOMER_PID.s2s.ad-score.com/archive/proxy/install.sh?k=CUSTOMER_K
 Constraints:
 
 * The full request must not exceed 8kb of size.
-*
+* <br />
 
-  The URL and all parameters \*\*must \*\*be in lower case (i.e, tid and not TID)
+The URL and all parameters \*\*must \*\*be in lower case (i.e, tid and not TID)
+
 * The following characters are \*\*forbidden \*\*as parameter values: #, @, =, ;. All other characters are allowed, including upper and lower case characters.
 * Each parameter value in this example \*\*must \*\*be replaced with your own value. These values are most commonly macros that populate the value per impression. The third-party platform of your choice should have a list of corresponding parameters.
 
