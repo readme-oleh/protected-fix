@@ -1,5 +1,5 @@
 ---
-title: DirectLinkDocs
+title: Protected Integration Guides - DirectLinks
 deprecated: false
 hidden: true
 metadata:
