@@ -1,5 +1,5 @@
 ---
-title: Alerting Tool - User Guide
+title: Reports
 deprecated: false
 hidden: false
 metadata:
