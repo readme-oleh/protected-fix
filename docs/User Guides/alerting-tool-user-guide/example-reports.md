@@ -14,7 +14,7 @@ metadata:
 
 > 📘 Don't do this, do that!
 
-```
+```javascript
 <asdasdasd>
   
 ```
