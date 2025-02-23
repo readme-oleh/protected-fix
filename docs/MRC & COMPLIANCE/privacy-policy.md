@@ -59,8 +59,7 @@ To address growing concerns surrounding specific IVT detection techniques, such 
 
 ### Profiling
 
-We use profiling to analyse your activity on Digital Properties to assess and monitor Digital Properties for fraudulent activity.Why we collect personal data and our lawful basis for processingProtected collects information, including personal data, in order to identify and prevent fraud online (including in respect of online advertising and ecommerce). We also use such information for our internal operations (including trouble shooting, data analysis, testing and statistical purposes). We do not use any personal data other than as necessary to execute our Services.
-EU Privacy law requires us to have a “lawful basis” for collecting and using processing data. We collect this information for our legitimate interests. These are two fold (a) our legitimate interest, and our client’s legitimate interest, in preventing fraud; and (b) our legitimate interest in managing client relationships and the ongoing improvement of our Services.
+We use profiling to analyse your activity on Digital Properties to assess and monitor Digital Properties for fraudulent activity.Why we collect personal data and our lawful basis for processingProtected collects information, including personal data, in order to identify and prevent fraud online (including in respect of online advertising and ecommerce). We also use such information for our internal operations (including trouble shooting, data analysis, testing and statistical purposes). We do not use any personal data other than as necessary to execute our Services.EU Privacy law requires us to have a “lawful basis” for collecting and using processing data. We collect this information for our legitimate interests. These are two fold (a) our legitimate interest, and our client’s legitimate interest, in preventing fraud; and (b) our legitimate interest in managing client relationships and the ongoing improvement of our Services.
 
 ## WHO WE SHARE PERSONAL DATA WITH
 
@@ -81,17 +80,14 @@ We process personal data for 12 months. After this period, we will delete the pe
 
 ### WHERE DO WE PROCESS PERSONAL DATA?
 
-The data that we process in relation to users may be transferred to, and stored at, a destination outside the European Economic Area (“EEA“) that may not be subject to equivalent data protection law. It may also be processed by staff situated outside the EEA who works for us or for one of our suppliers.In order to store it.Where we are legally required to do so.
-In order to facilitate the operation of our group of businesses, where it is in our legitimate interests and we have concluded these are not overridden by your rights.
+The data that we process in relation to users may be transferred to, and stored at, a destination outside the European Economic Area (“EEA“) that may not be subject to equivalent data protection law. It may also be processed by staff situated outside the EEA who works for us or for one of our suppliers.In order to store it.Where we are legally required to do so.In order to facilitate the operation of our group of businesses, where it is in our legitimate interests and we have concluded these are not overridden by your rights.
 Where personal data is transferred by us or our affiliates in relation to providing our services we will take all steps reasonably necessary to ensure that it is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism which may include by entering into EC approved standard contractual clauses relevant to transfers of personal information (see [http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index\_en.html](http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html)) and that it is treated securely and in accordance with this privacy policy.
 
-We may transfer your personal information to the following:Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, including Israel and the US.Therefore, your personal information may be processed outside your jurisdiction, and in countries that may not provide for the same level of data protection as your jurisdiction. We ensure that the recipient of your personal information offers an adequate level of protection, for example by entering into the appropriate data processing agreements and, if required, standard contractual clauses for the transfer of data as approved by the European Commission (Art. 46 GDPR).
-Without derogating from the generality o the foregoing, when transferring EEA data to Israel, we rely on the European Commission’s decision that Israel offers adequate data protection for transfers from the EEA.
+We may transfer your personal information to the following:Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, including Israel and the US.Therefore, your personal information may be processed outside your jurisdiction, and in countries that may not provide for the same level of data protection as your jurisdiction. We ensure that the recipient of your personal information offers an adequate level of protection, for example by entering into the appropriate data processing agreements and, if required, standard contractual clauses for the transfer of data as approved by the European Commission (Art. 46 GDPR).Without derogating from the generality o the foregoing, when transferring EEA data to Israel, we rely on the European Commission’s decision that Israel offers adequate data protection for transfers from the EEA.
 
 ### WHAT ARE YOUR RIGHTS?
 
-You have the following rights in relation to personal data relating to you that we process:You may request access to the personal data concerned (please see the section on obtaining access to your personal data, below).You may request that any incorrect personal data about you that we are processing be rectified.
-In certain circumstances (normally where the personal data has been provided by you and it is no longer necessary for us to continue to process it), you may be entitled to request that we erase the personal data concerned subject to some specific legal reasons we may have to retain certain data relating to you.
+You have the following rights in relation to personal data relating to you that we process:You may request access to the personal data concerned (please see the section on obtaining access to your personal data, below).You may request that any incorrect personal data about you that we are processing be rectified.In certain circumstances (normally where the personal data has been provided by you and it is no longer necessary for us to continue to process it), you may be entitled to request that we erase the personal data concerned subject to some specific legal reasons we may have to retain certain data relating to you.
 You may, in certain circumstances, object to the further processing of your personal data.
 You may request that your provided personal data be moved to a third party.
 If you have a complaint about any processing of your personal data being conducted by us, you can contact us.
@@ -106,6 +102,8 @@ Please note that we ask you for further information in order to confirm your ide
 
 If you have any questions or comments about this Privacy Policy, the information practices of the Platform, or your dealings with Protected, you can contact us at any time:Our full details are:
 
-Protected Media Ltd.3 Shaham St., Petach Tikva, Israel
+Protected Media Ltd.
+
+3 Shaham St., Petach Tikva, Israel
 
 [privacy@protected.media](mailto:privacy@protected.media)
